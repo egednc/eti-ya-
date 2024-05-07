@@ -10,5 +10,5 @@ Kullanıcı sayfayı ilk açtığında Beyaz ve 128gb inital olarak seçili geli
 
 Genel olark flexbox yapısı ve boostrap kullandım ve gerekli yerlerde de media queryleri kullandım.
 
-
-
+Kısa bir videolu özetini aşağıki linkte bulabilirsiniz.
+https://youtu.be/16Lye8Q5mWI
