@@ -1,0 +1,18 @@
+{
+  "name": "testcaseetiya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "egednc",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2",
+    "star-rating.js": "^4.3.1"
+  }
+}
